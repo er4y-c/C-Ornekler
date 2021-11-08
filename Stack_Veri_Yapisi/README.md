@@ -1,0 +1,1 @@
+Stack veri yapisi ornegi
