@@ -1,0 +1,1 @@
+Kuyruk veri yapisinin pointer kullanilarak orneklendirilmesi
